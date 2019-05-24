@@ -1,0 +1,19 @@
+{
+    "name": "Test_VuePress",
+    "version": "0.1.0",
+    "description": "Site de tests - VuePress",
+    "scripts": {
+        "dev": "node_modules/.bin/vuepress dev docs",
+        "build": "node_modules/.bin/vuepress build docs"
+    },
+    "devDependencies": {
+        "vuepress": "^1.0.0-alpha.48"
+    },
+    "dependencies": {
+        "axios": "^0.18.0",
+        "markdown-it": "^8.4.2",
+        "markdown-it-mark": "^2.0.0",
+        "mermaid": "^8.0.0",
+        "vuepress-prismjs-plugin": "0.0.1"
+    }
+}
