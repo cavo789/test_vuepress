@@ -1,5 +1,7 @@
 # VuePress - Learning site
 
+![Banner](./banner.svg)
+
 Personal learning application to understand VuePress using a step by step approach.
 
 To build the static version, just run `npm run build`.
